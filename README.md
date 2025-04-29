@@ -1,1 +1,1 @@
-This website is part of Full-stack Engineering Career path on codecademy.
+This website is part of Full-Stack Engineering Career path on codecademy.
